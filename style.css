@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Prata;
+    src: url(./Assets/Fonts/Prata-Regular.ttf);
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(./Assets/Fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+
+body{
+    font-family: Inter;
+    color:azure;
+    background-color: #111;
+}
+
+.navbar-brand, h1, h2{
+    font-family: Prata;
+}
